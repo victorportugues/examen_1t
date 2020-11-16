@@ -5,11 +5,15 @@ html{
 p{
     color: #757575;
 }
+a{
+    color: #3a3939;;
+}
 h2{
-    font-size: 30px;
     color: #1a237e;
+    text-transform: uppercase;
 }
 .direccion{
+    font-size: 25px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     line-height: 1;
     font-style: italic;
@@ -20,12 +24,7 @@ h2{
     font-style: italic;
     color: #1a237e;
 }
-span{
+#telefono{
     font-weight: bold;
     color: #1a237e;
-}
-#cabecera{
-    text-decoration: underline;
-    font-style: italic;
-    color: #757575;
 }
